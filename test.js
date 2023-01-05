@@ -4,5 +4,5 @@ function add(a , b){
 
 
 console.log(add(1,2))
-console.log('success-modified')
+console.log('success')
 
