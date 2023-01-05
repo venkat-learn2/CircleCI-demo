@@ -2,7 +2,7 @@
   "name": "automation-csv",
   "version": "1.0.0",
   "description": "for automation csv files - test",
- "main": "test.js",
+  "main": "test.js",
   "scripts": {
     "test": "node test.js"
   },
