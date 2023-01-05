@@ -4,7 +4,7 @@
   "description": "for automation csv files - test",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node test.js"
   },
   "repository": {
     "type": "git",
